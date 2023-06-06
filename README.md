@@ -1,5 +1,5 @@
-# To Run Frontend 👇
-
-1. cd projfrontend
+# To Run
+ 
+1. cd book-store
 2. npm install
 3. npm start
