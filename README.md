@@ -3,5 +3,3 @@
 1. cd projfrontend
 2. npm install
 3. npm start
-
-```
